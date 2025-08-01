@@ -1,1 +1,1 @@
-# ChessGames
+# chessgames
