@@ -293,3 +293,20 @@ I hope you enjoy your weekend, and I hope that I enjoy mine.
 Buenas tardes.
 
 Thanks for reading.
+
+## Review
+
+The key areas that helped me improve as a chess player are:
+
+1. Tactics
+2. Strategy / Positional chess
+3. Openings
+4. Endgames
+
+My understanding is that strategy and positional chess are synonymous.
+
+I really studied these four areas, and it helped me improve as a chess player.
+
+I feel confident on every move, because of my studies.
+
+Later on, I can point out some resources that I used to study chess.
