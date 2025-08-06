@@ -1,0 +1,19 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.11.25"]
+[Round "?"]
+[White "tjyyy143"]
+[Black "ktm5124"]
+[Result "0-1"]
+[TimeControl "180"]
+[WhiteElo "2096"]
+[BlackElo "2108"]
+[Termination "ktm5124 won by checkmate"]
+[ECO "B77"]
+[EndTime "17:49:30 GMT+0000"]
+[Link "https://www.chess.com/game/live/126295758367?username=ktm5124"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Nxd4 10. Bxd4 Be6 11. Bb3 Qa5 12. h4 b5 13. O-O-O b4 14. Nd5 Bxd5 15.
+exd5 Qb5 16. h5 a5 17. a4 bxa3 18. bxa3 Rfc8 19. Qe3 Rab8 20. Rd3 Nxd5 21. Bxd5
+Qb1+ 22. Kd2 Rxc2# 0-1
