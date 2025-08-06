@@ -1,0 +1,20 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.08"]
+[Round "?"]
+[White "Chess_Star1234"]
+[Black "ktm5124"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "2230"]
+[BlackElo "2265"]
+[TimeControl "180"]
+[EndTime "21:11:16 PST"]
+[Termination "ktm5124 won by checkmate"]
+[Link "https://www.chess.com/analysis/library/wYE1beWm4"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. f3 O-O 6. Nge2 Nc6 7. Be3 e5 8. d5 Ne7
+9. g4 Nd7 10. Qd2 f5 11. h3 f4 12. Bf2 a5 13. h4 b6 14. h5 g5 15. Nc1 h6 16. Be2
+Nc5 17. b3 Bd7 18. Nd3 Nxd3+ 19. Qxd3 Rb8 20. Kd2 c6 21. Rhc1 cxd5 22. cxd5 b5
+23. a3 b4 24. axb4 Rxb4 25. Ra3 Qa8 26. Rca1 Qb8 27. Rxa5 Rxb3 28. Rb1 Rc8 29.
+Rxb3 Qxb3 30. Qc2 Qb4 31. Ra1 Nxd5 32. exd5 e4 33. Ke1 Rxc3 34. Qxe4 Rc1# 0-1
