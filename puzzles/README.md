@@ -31,3 +31,8 @@ Puzzle #4: White to play and win
 Source: https://www.chess.com/game/live/130365619279?move=0
 
 <img src="04_whitetoplay.png" width="400">
+
+Puzzle #5: White to play and win  
+Source: https://www.chess.com/game/live/130466457933?move=0
+
+<img src="05_whitetoplay.png" width="400">
