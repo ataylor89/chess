@@ -56,3 +56,8 @@ Puzzle #9: Black to play and win
 Source: https://www.chess.com/game/live/131509194521?move=0
 
 <img src="09_blacktoplay.png" width="400">
+
+Puzzle #10: White to play and win  
+Source: https://www.chess.com/game/live/138705485870?move=0
+
+<img src="10_whitetoplay.png" width="400">
