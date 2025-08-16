@@ -42,7 +42,7 @@ Source: https://www.chess.com/game/live/130466457933?move=0
 
 <img src="06_whitetoplay.png" width="400">
 
-Puzzle #7: White to play and get an advantage
+Puzzle #7: White to play and get an advantage  
 Source: https://www.chess.com/game/live/131330416747?move=0
 
 <img src="07_whitetoplay.png" width="400">
