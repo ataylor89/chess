@@ -13,7 +13,6 @@ I don't want to write a long introduction, so I think that we can start solving 
 ## Puzzles
 
 Puzzle #1: Black to play and win
-
-(Taken from https://www.chess.com/game/live/141933455260)
+Source: https://www.chess.com/game/live/141933455260?move=0
 
 ![Puzzle 1](01_blacktoplay.png "Black to play and win")
