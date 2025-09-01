@@ -66,3 +66,8 @@ Puzzle #11: White to play and get an advantage
 Source: https://www.chess.com/game/live/150019092343?move=0
 
 <img src="11_whitetoplay.png" width="400">
+
+Puzzle #12: White to play and win  
+Source: https://www.chess.com/game/live/142221810828?move=0
+
+<img src="12_whitetoplay.png" width="400">
