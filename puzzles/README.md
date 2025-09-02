@@ -81,3 +81,8 @@ Puzzle #14: White to play and win
 Source: https://www.chess.com/game/live/142462261936?move=0
 
 <img src="14_whitetoplay.png" width="400">
+
+Puzzle #15: White to play and win  
+Source: https://www.chess.com/game/live/142462261936?move=0
+
+<img src="15_whitetoplay.png" width="400">
