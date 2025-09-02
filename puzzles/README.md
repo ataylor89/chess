@@ -111,3 +111,8 @@ Puzzle #20: White to play and win
 Source: https://www.chess.com/game/live/142489953106?move=0
 
 <img src="20_whitetoplay.png" width="400">
+
+Puzzle #21: White to play and win  
+Source: https://www.chess.com/game/live/142489953106?move=0
+
+<img src="21_whitetoplay.png" width="400">
