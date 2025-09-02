@@ -96,3 +96,8 @@ Puzzle #17: White to play and get an advantage
 Source: https://www.chess.com/game/live/142489819442?move=0
 
 <img src="17_whitetoplay.png" width="400">
+
+Puzzle #18: White to play and get an advantage  
+Source: https://www.chess.com/game/live/142489819442?move=0
+
+<img src="18_whitetoplay.png" width="400">
