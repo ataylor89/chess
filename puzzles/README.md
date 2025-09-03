@@ -131,3 +131,12 @@ Puzzle #24: White to play and win
 Source: https://www.chess.com/game/live/142489953106?move=0
 
 <img src="24_whitetoplay.png" width="400">
+
+## Solutions
+
+Puzzle #1: Black to play and win  
+Source: https://www.chess.com/game/live/141933455260?move=0
+
+<img src="01_blacktoplay.png" width="400">
+
+This is a beautiful puzzle! The move 17... Nf3+ is extremely tempting, because it forks the king and the queen, and after 18. gxf3 Bxf3 black's attack is overwhelming. The bishop on f3 can be supported by e4. If white plays Bd7, then the bishop runs out of squares after Rad8 Bf5 g6. When I played this move, I judged that the position after 18. gxf3 Bxf3 is winning for black. I saw that after 19. Qe3 e4 it is very difficult to stop checkmate. I actually missed Bd7, but it turns out that Bd7 doesn't work, because of Rad8 Bf5 g6. If you look at black's clock in the chess.com game, you'll see that I played this move in 13 seconds. I didn't calculate every line... but I was confident that black was winning after 18. gxf3 Bxf3 19. Qe3 e4. It turns out I played the best move. The move 17... Nf3+ is the best move and it wins the game for black.
