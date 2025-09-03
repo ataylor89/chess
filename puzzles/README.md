@@ -121,3 +121,8 @@ Puzzle #22: White to play and win
 Source: https://www.chess.com/game/live/142489953106?move=0
 
 <img src="22_whitetoplay.png" width="400">
+
+Puzzle #23: White to play and win  
+Source: https://www.chess.com/game/live/142489953106?move=0
+
+<img src="23_whitetoplay.png" width="400">
