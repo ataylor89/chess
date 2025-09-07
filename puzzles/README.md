@@ -185,7 +185,7 @@ Source: https://www.chess.com/game/live/142662723816?move=0
 Puzzle #35: White to play and win  
 Source: https://www.chess.com/game/live/142662723816?move=0
 
-<img src="35_whitetoplay.png" width="400">  
+<img src="35_whitetoplay.png" width="400">
 
 Puzzle #36: White to play and win  
 Source: https://www.chess.com/game/live/142662723816?move=0
