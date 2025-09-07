@@ -152,6 +152,11 @@ Source: https://www.chess.com/game/live/142660695546?move=0
 
 <img src="28_whitetoplay.png" width="400">
 
+Puzzle #29: White to play and win  
+Source: https://www.chess.com/game/live/142660695546?move=0
+
+<img src="29_whitetoplay.png" width="400">
+
 ## Solutions
 
 Puzzle #1: Black to play and win  
