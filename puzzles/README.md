@@ -192,10 +192,10 @@ Source: https://www.chess.com/game/live/142662723816?move=0
 
 <img src="36_whitetoplay.png" width="400">
 
-Puzzle #37: White to play and win  
+Puzzle #37: Black to play and win  
 Source: https://www.chess.com/game/live/142663129798?move=0
 
-<img src="37_whitetoplay.png" width="400">
+<img src="37_blacktoplay.png" width="400">
 
 ## Solutions
 
