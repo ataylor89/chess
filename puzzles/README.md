@@ -197,6 +197,11 @@ Source: https://www.chess.com/game/live/142663129798?move=0
 
 <img src="37_blacktoplay.png" width="400">
 
+Puzzle #38: Black to play and win  
+Source: https://www.chess.com/game/live/142663129798?move=0
+
+<img src="38_blacktoplay.png" width="400">
+
 ## Solutions
 
 Puzzle #1: Black to play and win  
