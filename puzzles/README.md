@@ -227,6 +227,51 @@ Source: https://www.chess.com/game/live/142663129798?move=0
 
 <img src="43_blacktoplay.png" width="400">
 
+Puzzle #44: White to play and win  
+Source: https://www.chess.com/game/live/142663213976?move=0
+
+<img src="44_whitetoplay.png" width="400">
+
+Puzzle #45: White to play and win  
+Source: https://www.chess.com/game/live/142663213976?move=0
+
+<img src="45_whitetoplay.png" width="400">
+
+Puzzle #46: White to play and win  
+Source: https://www.chess.com/game/live/142663213976?move=0
+
+<img src="46_whitetoplay.png" width="400">
+
+Puzzle #47: White to play and win  
+Source: https://www.chess.com/game/live/142663213976?move=0
+
+<img src="47_whitetoplay.png" width="400">
+
+Puzzle #48: White to play and win  
+Source: https://www.chess.com/game/live/142663213976?move=0
+
+<img src="48_whitetoplay.png" width="400">
+
+Puzzle #49: White to play and win  
+Source: https://www.chess.com/game/live/142663213976?move=0
+
+<img src="49_whitetoplay.png" width="400">
+
+Puzzle #50: White to play and win  
+Source: https://www.chess.com/game/live/142663213976?move=0
+
+<img src="50_whitetoplay.png" width="400">
+
+Puzzle #51: White to play and win  
+Source: https://www.chess.com/game/live/142663213976?move=0
+
+<img src="51_whitetoplay.png" width="400">
+
+Puzzle #52: White to play and win  
+Source: https://www.chess.com/game/live/142663213976?move=0
+
+<img src="52_whitetoplay.png" width="400">
+
 ## Solutions
 
 Puzzle #1: Black to play and win  
