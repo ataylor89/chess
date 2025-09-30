@@ -317,6 +317,11 @@ Source: Taken from one of my games
 
 <img src="61_blacktoplay.png" width="400">
 
+Puzzle #62: Black to play and save the game  
+Source: Taken from one of my games
+
+<img src="62_blacktoplay.png" width="400">
+
 ## Solutions
 
 Puzzle #1: Black to play and win  
