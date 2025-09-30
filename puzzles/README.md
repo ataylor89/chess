@@ -307,6 +307,11 @@ Source: Taken from one of my games
 
 <img src="59_blacktoplay.png" width="400">
 
+Puzzle #60: White to play and win  
+Source: Taken from one of my games
+
+<img src="60_whitetoplay.png" width="400">
+
 ## Solutions
 
 Puzzle #1: Black to play and win  
