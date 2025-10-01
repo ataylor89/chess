@@ -357,6 +357,31 @@ Source: Taken from one of my games
 
 <img src="69_whitetoplay.png" width="400">
 
+Puzzle #70: White to play and win  
+Source: Taken from one of my games
+
+<img src="70_whitetoplay.png" width="400">
+
+Puzzle #71: White to play and win  
+Source: Taken from one of my games
+
+<img src="71_whitetoplay.png" width="400">
+
+Puzzle #72: White to play and win  
+Source: Taken from one of my games
+
+<img src="72_whitetoplay.png" width="400">
+
+Puzzle #73: White to play and win  
+Source: Taken from one of my games
+
+<img src="73_whitetoplay.png" width="400">
+
+Puzzle #74: White to play and win  
+Source: Taken from one of my games
+
+<img src="74_whitetoplay.png" width="400">
+
 ## Solutions
 
 Puzzle #1: Black to play and win  
