@@ -13,11 +13,12 @@ Below, I'll define some words that are commonly used in the game of chess
 | Check | A move that attacks the opponent's king |
 | Checkmate | A check that cannot be escaped |
 | Chess notation | A language for writing down chess moves and recording a game |
-| Combination | A combination of tactics |
+| Combination | (1) A combination of tactics (2) A sequence of moves that combines many tactics |
 | Endgame | The third phase of a chess game, when queens have been traded and queens are no longer on the board |
 | En passant | En passant is a capture that a chess player can perform when the opponent's pawn advances two squares and their pawn is adjacent to the square that the opponent's pawn lands on |
 | Middlegame | The second phase of a chess game, after the players have finished their development |
 | Opening | The first phase of a chess game, when both players develop their pieces |
-| Strategy | A plan; the part of chess concerned with planning |
-| Tactic | (1) A move; an attack; a type of attack (2) A move that achieves a desired outcome (e.g. a checkmate, a material advantage, or a desirable draw) |
+| Strategy | (1) A plan (2) The part of chess concerned with planning (3) Positional chess |
+| Tactic | (1) A move that wins the game (2) A winning move (3) A move that achieves a desired outcome (e.g. a checkmate, a material advantage, or a desirable draw) (4) A move; an attack; a type of attack |
 | Zugzwang | A player is in zugzwang when every move weakens their position; a player is in zugzwang when every move loses |
+| Zwischenzug | An in-between move; an intermediate move |
