@@ -14,7 +14,7 @@ Below, I'll define some words that are commonly used in the game of chess
 | Checkmate | A check that cannot be escaped |
 | Chess notation | A language for writing down chess moves and recording a game |
 | Combination | (1) A combination of tactics (2) A sequence of moves that combines many tactics |
-| Endgame | The third phase of a chess game, when queens have been traded and queens are no longer on the board |
+| Endgame | The third phase of a chess game, when queens have been traded and queens are no longer on the board, or when the pieces are so reduced that it gets classified as an endgame |
 | En passant | En passant is a capture that a chess player can perform when the opponent's pawn advances two squares and their pawn is adjacent to the square that the opponent's pawn lands on |
 | Middlegame | The second phase of a chess game, after the players have finished their development |
 | Opening | The first phase of a chess game, when both players develop their pieces |
