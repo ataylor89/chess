@@ -28,4 +28,8 @@ Puzzle #4: [Anon - ktm5124](https://www.chess.com/game/live/141933455260). Black
 
 <img src="Puzzle04_anon_ktm5124_2025.png" width="400">
 
+Puzzle #5: The Lucena position. What is the evaluation if it is white's move? What if it's black's move?
+
+<img src="Puzzle05_Lucena.png" width="400">
+
 ## Solutions
