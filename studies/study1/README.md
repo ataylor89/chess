@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I like to say that positional chess means "learning chess by studying key positions". [1]
+I like to say that positional chess means "learning chess by studying key positions". [1](#footnotes)
 
 The positions could be taken from the opening, the middlegame, or the endgame.
 
