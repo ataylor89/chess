@@ -24,4 +24,8 @@ Puzzle #3: [Fischer - Benko 1963](https://www.chess.com/games/view/117108). Whit
 
 <img src="Puzzle03_Fischer_Benko_1963.png" width="400">
 
+Puzzle #4: [Anon - ktm5124](https://www.chess.com/game/live/141933455260). Black to move and win.
+
+<img src="Puzzle04_anon_ktm5124_2025.png" width="400">
+
 ## Solutions
