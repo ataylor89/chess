@@ -52,6 +52,10 @@ Puzzle #10: Pawn on the 2nd, king in front of pawn. What is the evaluation if it
 
 <img src="Puzzle10_Pawn_On_The_2nd.png" width="400">
 
+Puzzle #11: [Gligoric - Fischer 1959](https://www.chess.com/games/view/87355). Black to move. What is the evaluation?
+
+<img src="Puzzle11_Gligoric_Fischer_1959.png" width="400">
+
 ## Solutions
 
 ## Footnotes
