@@ -48,6 +48,10 @@ Puzzle #9: Pawn on the 6th, king beside the pawn. What is the evaluation if it i
 
 <img src="Puzzle09_Pawn_On_The_6th.png" width="400">
 
+Puzzle #10: Pawn on the 2nd, king in front of pawn. What is the evaluation if it is white's move? What if it's black's move?
+
+<img src="Puzzle10_Pawn_On_The_2nd.png" width="400">
+
 ## Solutions
 
 ## Footnotes
