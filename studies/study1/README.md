@@ -1,5 +1,12 @@
 # Study #1
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Puzzles](#puzzles)
+3. [Solutions](#solutions)
+4. [Footnotes](#footnotes)
+
 ## Introduction
 
 I like to say that positional chess means "learning chess by studying key positions". [\[1\]](#footnotes)
