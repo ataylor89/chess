@@ -8,7 +8,7 @@ The positions could be taken from the opening, the middlegame, or the endgame.
 
 The positions could be tactical or strategic in nature.
 
-In the puzzles below, we'll learn about chess history (like the games of Bobby Fischer) and we'll also learn how to evaluate a position and show that it's winning, losing, or drawing.
+In the puzzles below, we'll learn about chess history (like the games of Bobby Fischer) and we'll also learn how to evaluate a position and show if it's winning, losing, drawing, balanced, or advantageous for one player.
 
 ## Puzzles
 
