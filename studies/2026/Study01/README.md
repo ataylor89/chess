@@ -1,0 +1,19 @@
+# Study #1
+
+## Introduction
+
+I like to say that positional chess means "learning chess by studying key positions".
+
+The positions could be taken from the opening, the middlegame, or the endgame.
+
+The positions could be tactical or strategic in nature.
+
+In the puzzles below, we'll learn about chess history (like the games of Bobby Fischer) and we'll also learn how to evaluate a position and show that it's winning, losing, or drawing.
+
+## Puzzles
+
+[Fischer - Reshevsky 1958](https://www.chess.com/games/view/84629). White to move and win.
+
+<img src="Puzzle01_Fischer_Reshevsky_1958.png" width="400">
+
+## Solutions
