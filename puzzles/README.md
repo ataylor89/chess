@@ -1,5 +1,11 @@
 # puzzles
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Puzzles](#puzzles)
+3. [Solutions](#solutions)
+
 ## Introduction
 
 Puzzles are fun, and they're a great way to improve at chess.
