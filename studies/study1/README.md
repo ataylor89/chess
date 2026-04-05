@@ -56,6 +56,10 @@ Puzzle #11: [Gligoric - Fischer 1959](https://www.chess.com/games/view/87355). B
 
 <img src="Puzzle11_Gligoric_Fischer_1959.png" width="400">
 
+Puzzle #12: Pawn on the 5th, king behind pawn. What is the evaluation if it is white's move? What if it's black's move?
+
+<img src="Puzzle12_Pawn_On_The_5th.png" width="400">
+
 ## Solutions
 
 ## Footnotes
