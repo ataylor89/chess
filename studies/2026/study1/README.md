@@ -16,4 +16,8 @@ Puzzle #1: [Fischer - Reshevsky 1958](https://www.chess.com/games/view/84629). W
 
 <img src="Puzzle01_Fischer_Reshevsky_1958.png" width="400">
 
+Puzzle #2: [Byrne - Fischer 1956](https://www.chess.com/games/view/75289). Black to move and win.
+
+<img src="Puzzle02_Byrne_Fischer_1956.png" width="400">
+
 ## Solutions
