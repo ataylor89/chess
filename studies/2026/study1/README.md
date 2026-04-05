@@ -20,4 +20,8 @@ Puzzle #2: [Byrne - Fischer 1956](https://www.chess.com/games/view/75289). Black
 
 <img src="Puzzle02_Byrne_Fischer_1956.png" width="400">
 
+Puzzle #3: [Fischer - Benko 1963](https://www.chess.com/games/view/117108). White to move and win.
+
+<img src="Puzzle03_Fischer_Benko_1963.png" width="400">
+
 ## Solutions
