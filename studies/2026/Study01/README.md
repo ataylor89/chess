@@ -12,7 +12,7 @@ In the puzzles below, we'll learn about chess history (like the games of Bobby F
 
 ## Puzzles
 
-[Fischer - Reshevsky 1958](https://www.chess.com/games/view/84629). White to move and win.
+Puzzle #1: [Fischer - Reshevsky 1958](https://www.chess.com/games/view/84629). White to move and win.
 
 <img src="Puzzle01_Fischer_Reshevsky_1958.png" width="400">
 
