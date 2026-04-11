@@ -78,22 +78,22 @@ Source: https://www.chess.com/game/live/142221810828?move=0
 
 <img src="images/12_whitetoplay.png" width="400">
 
-Puzzle #13: White to play and win  
+Puzzle #13: Black to play and win  
 Source: https://www.chess.com/game/live/142462261936?move=0
 
 <img src="images/13_whitetoplay.png" width="400">
 
-Puzzle #14: White to play and win  
+Puzzle #14: Black to play and win  
 Source: https://www.chess.com/game/live/142462261936?move=0
 
 <img src="images/14_whitetoplay.png" width="400">
 
-Puzzle #15: White to play and win  
+Puzzle #15: Black to play and win  
 Source: https://www.chess.com/game/live/142462261936?move=0
 
 <img src="images/15_whitetoplay.png" width="400">
 
-Puzzle #16: White to play and win  
+Puzzle #16: Black to play and win  
 Source: https://www.chess.com/game/live/142462261936?move=0
 
 <img src="images/16_whitetoplay.png" width="400">
