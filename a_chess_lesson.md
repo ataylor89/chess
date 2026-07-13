@@ -1,3 +1,5 @@
+# A chess lesson
+
 My last post made me feel a little self-conscious. So I'm going to hide behind a chess lesson :)
 
 I have been passionate about chess for a long time, since childhood.
